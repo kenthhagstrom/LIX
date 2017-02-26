@@ -18,3 +18,10 @@ echo $lix->val; // This will output your text readability score
 | 41-50 | Factual text      |
 | 51-60 | Advanced nonfiction      |
 | 61-100 | Advanced, scientific |
+
+## Contribute ##
+Anyone is welcome to contribute to this script. There are various ways you can contribute:
+
+- Raise an [Issue](https://github.com/kenthhagstrom/LIX/issues/)
+- Send a Pull Request with your bug fixes and/or new features
+- Provide feedback and suggestions
