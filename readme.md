@@ -1,5 +1,5 @@
-# LIX - Läsbarhetsindex #
-Swedish readability calculator based on [LIX](https://sv.wikipedia.org/wiki/L%C3%A4sbarhetsindex).
+# What is it? #
+LIX is short for the Swedish word "Läsbarhetsindex", in English that means tha this is a Swedish readability calculator based on [LIX](https://sv.wikipedia.org/wiki/L%C3%A4sbarhetsindex), it is used for measuring how easy or hard a section of text is to read.
 
 ### Usage ###
 ```php
